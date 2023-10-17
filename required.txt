@@ -1,0 +1,12 @@
+
+purple:cdb4db-ffc8dd-ffafcc-bde0fe-a2d2ff
+white:f8f9fa-e9ecef-dee2e6-ced4da-adb5bd-6c757d-495057-343a40-212529
+blue:00a6fb-0582ca-006494-003554-051923
+pink:f72585-b5179e-7209b7-560bad-480ca8-3a0ca3-3f37c9-4361ee-4895ef-4cc9f0
+
+font
+
+
+
+https://fonts.google.com/specimen/Roboto
+https://fonts.google.com/specimen/Alumni+Sans+Collegiate+One
